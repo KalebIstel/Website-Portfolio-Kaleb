@@ -150,12 +150,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/KalebIstel
 
   # About
   about:
@@ -268,7 +263,7 @@ params:
           name: "Sumatera Institute of Technology"
           url: "https://www.itera.ac.id/"
         date: "2024 - 2028"
-        GPA: "4 out of 4"
+        GPA: "3.97 out of 4"
         content: |-
           - Designed an innovation proposal for a biochar quality detector tool in the Student Creativity Program (PKM-KC), focusing on solutions for energy independence.
           - Awarded 2nd Place in the Faculty-level Physics Olympiad at INSPIRAXPO Data Science 2024.
@@ -284,8 +279,7 @@ params:
       - title: "High School"
         school:
           name: "Mawar Saron High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.8 out of 5.0"
+        GPA: "93 out of 100"
 
   # Achievements
   achievements:
@@ -340,14 +334,11 @@ params:
           link: https://django-converter.herokuapp.com
         badges:
           - "Arduino"
-          - "C"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          - "C++"
 
       - title: Data Science Competition Gammafest 2025
         content: A machine learning model that Predicts the relationship between papers and citations in Citation Netword
-        image: /images/projects/kaggle.png
+        image: /images/projects/ML.png
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
@@ -355,17 +346,14 @@ params:
           - "Sklearn"
           - "Python"
           - "TensorFlow"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: My inbox is always open. Whether you have a question or just want to say hi, Ill try my best to get back to you!
     btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnLink: mailto:kalebistel67@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
